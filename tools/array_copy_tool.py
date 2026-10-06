@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Array Copy Tool",
+    "name": "[AI Tools] Array Copy Tool",
     "author": "Anthropic Claude",
     "version": (1, 0, 0),
     "blender": (5, 2, 0),

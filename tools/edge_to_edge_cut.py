@@ -2,7 +2,7 @@
 """Face Edge Cut — разрез выделенных граней по кратчайшему пути между двумя рёбрами."""
 
 bl_info = {
-    "name": "Face Edge Cut",
+    "name": "[AI Tools] Edge-to-edge Cut",
     "author": "Anysphere Cursor",
     "version": (1, 2, 0),
     "blender": (5, 2, 0),

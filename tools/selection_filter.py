@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Selection Filter",
+    "name": "[AI Tools] Selection Filter",
     "author": "Anthropic Claude",
     "version": (1, 0, 0),
     "blender": (5, 2, 0),

@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Polyline Carve (Advanced)",
+    "name": "[AI Tools] Advanced polyline Carve",
     "author": "Anthropic Claude",
     "version": (2, 1, 0),
     "blender": (5, 2, 0),

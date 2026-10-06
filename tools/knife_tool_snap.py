@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Knife (Grid Snap)",
+    "name": "[AI Tools] Knife (Grid Snap)",
     "author": "Anthropic Claude",
     "version": (1, 1, 0),
     "blender": (5, 2, 0),

@@ -33,7 +33,7 @@ Union / Slice / Difference / Intersection на базе Exact-солвера.
 """
 
 bl_info = {
-    "name": "Quick Exact CSG",
+    "name": "[AI Tools] Quick Exact CSG",
     "author": "Anthropic Claude",
     "version": (1, 1, 3),
     "blender": (5, 2, 0),

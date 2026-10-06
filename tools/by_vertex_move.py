@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Move (Individual Offset)",
+    "name": "[AI Tools] By-vertex move",
     "author": "Anthropic Claude",
     "version": (1, 3, 0),
     "blender": (5, 2, 0),

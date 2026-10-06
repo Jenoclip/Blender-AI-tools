@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Snap Vertices to Grid Size",
+    "name": "[AI Tools] Snap vertices to grid",
     "author": "Google Gemini",
     "version": (1, 0),
     "blender": (4, 0, 0),
