@@ -8,7 +8,7 @@
 <table>
 	<tr>
 		<th><a href="https://github.com/Jenoclip/Blender-AI-tools/wiki/Advanced-polyline-carve">Advanced polyline carve</a><br><br/><img src="https://github.com/Jenoclip/Blender-AI-tools/blob/main/_images/tool%20preview/Advanced_polyline_cut.png" width="341" height="284"></th>
-		<th>Array copy tool<br><br/><img src="https://github.com/Jenoclip/Blender-AI-tools/blob/main/_images/tool%20preview/Array_copy_tool.png" width="341" height="284"></th>
+		<th><a href="https://github.com/Jenoclip/Blender-AI-tools/wiki/Array-copy-tool">Array copy tool</a><br><br/><img src="https://github.com/Jenoclip/Blender-AI-tools/blob/main/_images/tool%20preview/Array_copy_tool.png" width="341" height="284"></th>
 		<th><a href="https://github.com/Jenoclip/Blender-AI-tools/wiki/Edge-to-edge-cut-tool">Edge to edge cut</a><br><br/><img src="https://github.com/Jenoclip/Blender-AI-tools/blob/main/_images/tool%20preview/Edge_to_edge_cut.png" width="341" height="284"></th>
 	</tr>
 	<tr>
